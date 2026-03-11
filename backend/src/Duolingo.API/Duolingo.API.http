@@ -1,0 +1,6 @@
+@Duolingo.API_HostAddress = http://localhost:5027
+
+GET {{Duolingo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
